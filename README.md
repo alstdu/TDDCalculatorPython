@@ -20,9 +20,12 @@ python calculator_cli.py
 
 Example operations:
 
-Enter calculation (e.g., 5 + 3): 5 + 3
+- Enter calculation (e.g., 5 + 3): 5 + 3
+  
 Result: 8
-Enter calculation (e.g., 5 + 3): 10 / 2
+
+- Enter calculation (e.g., 5 + 3): 10 / 2
+  
 Result: 5.0
 
 
