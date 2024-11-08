@@ -11,12 +11,6 @@ A lightweight command-line calculator built with Python, featuring comprehensive
 - Support for decimal and negative numbers
 - Division by zero protection
 
-## Project Structure
-
-├── calculator.py # Core calculator class implementation
-├── calculator_cli.py # Command-line interface
-└── test_calculator.py # Unit tests
-
 
 ## Usage
 
